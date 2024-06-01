@@ -1,5 +1,7 @@
 For use in Rhino 3D
+
 Takes a list of strings (words and sentences) and draws them perpendicular to an input curve
+
 Can't use spacebar (as default) in Rhino command line to create a space, so 
 
 To make a string like this "Make instant noodles,Brew filter coffee,woodblock-print,editor-in-chief"
